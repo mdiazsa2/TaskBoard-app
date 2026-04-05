@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { DndContext, type DragEndEvent, PointerSensor, useSensor, useSensors } from '@dnd-kit/core'
 import { COLUMNS } from '../types'
 import type { Task, Status } from '../types'
